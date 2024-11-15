@@ -1,5 +1,8 @@
 _repo: The-world-s-leading-conquerors-b-Alexander-the-Great-C0xe6sar-Charles-the-Great-the-Ottoman-s__74652
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74652-h/images/cover.jpg
 creator:
   author:
     agent_name: Bevan, W. Lloyd (Wilson Lloyd)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '40476'
     url: http://www.gutenberg.org/2009/agents/40476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74652#The-world-s-leading-conquerors-b-Alexander-the-Great-C0xe6sar-Charles-the-Great-the-Ottoman-s_
 gutenberg_issued: '2024-10-28'
 gutenberg_type: Text
 identifiers:
